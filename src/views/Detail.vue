@@ -181,7 +181,7 @@
               </v-row>
             </v-col>
           </v-row>
-          <v-row class="ml-9 small-device-justify">
+          <v-row class="ml-1 small-device-justify">
             <v-col
               xl="3"
               lg="4"
@@ -229,8 +229,8 @@
               <v-tabs-items v-model="tab">
                 <v-tab-item value="tab-1">
                   <v-card flat>
-                    <v-card-text>
-                      <v-row class="col-12 col-sm-12 col-md-10">
+                    <v-card-text class="px-0">
+                      <v-row class="col-12 col-sm-12 col-md-10 px-2">
                         <v-col
                           cols="12"
                           class="subtitle-1 black--text"
