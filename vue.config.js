@@ -1,4 +1,4 @@
 module.exports = {
   transpileDependencies: ["vuetify"],
-  publicPath: "vue-bookstore",
+  publicPath: process.env.NODE_ENV === "production" ? "/vue-bookstore/" : "/",
 };
