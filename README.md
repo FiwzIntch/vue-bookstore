@@ -1,24 +1,32 @@
-# bookstore
+# Vue Bookstore
 
-## Project setup
-```
-npm install
-```
+Vue Bookstore is a project built using Vue 2 and Vuetify to create the UI for an online bookstore.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
+## Installation
+
+```sh
+yarn install
 ```
 
-### Lints and fixes files
-```
-npm run lint
+## Running the app
+
+```sh
+yarn run serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Technologies Used
+- **Vue.js:** A JavaScript framework for building user interfaces.
+- **Vuetify:** A framework that helps to design and create various UI components quickly and easily.
+- 
+
+## Build as Static Website
+
+This project has been built as a static website and deployed using GitHub Pages.
+
+You can access the deployed website at [https://fiwzintch.github.io/vue-bookstore/](https://fiwzintch.github.io/vue-bookstore/).
+
+## Contributors
+
+- User: [Thapanee Intachot](https://github.com/FiwzIntch)
